@@ -12,7 +12,7 @@ import pandas as pd
 
 # Creates a session object to manage and persist settings across multiple API requests
 s = requests.Session()
-s.headers.update({'X-API-key': 'C5JQWPDC'}) # Adds an API key to the session headers for authentication
+s.headers.update({'X-API-key': ' '}) # Adds an API key to the session headers for authentication
 
 # Global variables for managing risk and order constraints
 MAX_LONG_EXPOSURE = 250000  # Maximum allowable long position exposure
