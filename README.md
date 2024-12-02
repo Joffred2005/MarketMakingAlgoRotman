@@ -1,6 +1,6 @@
 This Algorithm was made as a market making algorithm on a VERY-UNFRIENDLY market simulation.
 
-Trend trading beat this algorithm 9/10 times, however the algorithm proved quite consistent.
+Trend trading beat this algorithm 9/10 times, however the algorithm proved to be quite consistent as provided in the PDFs.
 
 The profit margins are adjustable (I have them quite low to remain competitive).
 
